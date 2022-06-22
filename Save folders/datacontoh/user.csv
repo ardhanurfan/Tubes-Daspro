@@ -1,0 +1,4 @@
+"id;username;nama;password;role;saldo"
+"1;admin;admin;admin;Admin;1073741823"
+"2;user;user;user;User;10000"
+"3;userbaru;userbaru;userbaru;User;0"
